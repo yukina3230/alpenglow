@@ -1,5 +1,11 @@
 # Change Log
 
-## 0.0.1
+All notable changes to the "alpenglow" extension will be documented in this file.
 
-- Initial release.
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [Unreleased]
+
+## [1.0.0] - 2026-08-26
+
+- Initial release
