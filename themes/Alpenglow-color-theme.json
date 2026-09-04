@@ -85,7 +85,7 @@
     "charts.green": "#047500",
     "charts.lines": "#0e6bb3",
     "charts.orange": "#a34c00",
-    "charts.purple": "#9836c9",
+    "charts.purple": "#9345ba",
     "charts.red": "#c32232",
     "charts.yellow": "#746d11",
     "chat.avatarBackground": "default",
@@ -385,7 +385,7 @@
     "editorSuggestWidget.selectedBackground": "#4668922d",
     "editorSuggestWidget.selectedForeground": "#434958",
     "editorSuggestWidget.selectedIconForeground": "#434958",
-    "editorSuggestWidgetStatus.foreground": "#434958",
+    "editorSuggestWidgetStatus.foreground": "#555b6a",
     "editorUnicodeHighlight.background": "default",
     "editorUnicodeHighlight.border": "default",
     "editorUnnecessaryCode.border": "default",
@@ -422,7 +422,7 @@
     "gitDecoration.deletedResourceForeground": "#c32232",
     "gitDecoration.ignoredResourceForeground": "#64677cbf",
     "gitDecoration.modifiedResourceForeground": "#746d11",
-    "gitDecoration.renamedResourceForeground": "#9836c9",
+    "gitDecoration.renamedResourceForeground": "#9345ba",
     "gitDecoration.stageDeletedResourceForeground": "#c32232",
     "gitDecoration.stageModifiedResourceForeground": "#746d11",
     "gitDecoration.submoduleResourceForeground": "#04707f",
@@ -514,7 +514,7 @@
     "listFilterWidget.outline": "default",
     "listFilterWidget.shadow": "#00000000",
     "markdownAlert.caution.foreground": "#c32232",
-    "markdownAlert.important.foreground": "#9836c9",
+    "markdownAlert.important.foreground": "#9345ba",
     "markdownAlert.note.foreground": "#466892",
     "markdownAlert.tip.foreground": "#047500",
     "markdownAlert.warning.foreground": "#746d11",
@@ -830,7 +830,7 @@
     "tab.dragAndDropBorder": "default",
     "tab.hoverBackground": "#f6f6f6",
     "tab.hoverBorder": "default",
-    "tab.hoverForeground": "default",
+    "tab.hoverForeground": "#434958",
     "tab.inactiveBackground": "#ededed",
     "tab.inactiveForeground": "#64677cbf",
     "tab.inactiveModifiedBorder": "default",
@@ -855,13 +855,13 @@
     "terminal.ansiBrightBlue": "#466892",
     "terminal.ansiBrightCyan": "#04707f",
     "terminal.ansiBrightGreen": "#047500",
-    "terminal.ansiBrightMagenta": "#9836c9",
+    "terminal.ansiBrightMagenta": "#9345ba",
     "terminal.ansiBrightRed": "#c32232",
     "terminal.ansiBrightWhite": "#ededed",
     "terminal.ansiBrightYellow": "#746d11",
     "terminal.ansiCyan": "#04707f",
     "terminal.ansiGreen": "#047500",
-    "terminal.ansiMagenta": "#9836c9",
+    "terminal.ansiMagenta": "#9345ba",
     "terminal.ansiRed": "#c32232",
     "terminal.ansiWhite": "#e4e4e4",
     "terminal.ansiYellow": "#746d11",
@@ -1216,7 +1216,7 @@
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#9836c9"
+        "foreground": "#9345ba"
       }
     },
     {
@@ -1592,7 +1592,7 @@
       "name": "Token Debug",
       "scope": "token.debug-token",
       "settings": {
-        "foreground": "#9836c9"
+        "foreground": "#9345ba"
       }
     },
     {
@@ -1694,7 +1694,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#9836c9"
+        "foreground": "#9345ba"
       }
     },
     {
@@ -1778,7 +1778,7 @@
       "name": "[CSS] Media Queries",
       "scope": "source.css keyword.control.at-rule.media",
       "settings": {
-        "foreground": "#9836c9"
+        "foreground": "#9345ba"
       }
     },
     {
@@ -1792,7 +1792,7 @@
       "name": "[CSS] Punctuation Definition Keyword",
       "scope": "source.css punctuation.definition.keyword",
       "settings": {
-        "foreground": "#9836c9"
+        "foreground": "#9345ba"
       }
     },
     {
@@ -2302,7 +2302,7 @@
         "constant.other.reference.link.markdown"
       ],
       "settings": {
-        "foreground": "#9836c9"
+        "foreground": "#9345ba"
       }
     },
     {
